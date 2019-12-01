@@ -26,11 +26,11 @@ body {
   height: 120px;
 
 }
-#history: {
+#history {
   text-align: right;
   height: 20px;
   margin: 0 20px;
-  padding-top: 120px;
+  padding-top: 20px;
   font-size: 15px;
   color: #919191;
 }
